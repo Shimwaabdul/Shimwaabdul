@@ -1,12 +1,23 @@
-# Hi, I'm Abdul
+# Hi, I'm Abdul 👋
 
-🎓 A-Level student | Computer Systems & Architecture Student | AI · Systems Design · Building in Public | Kigali 🇷🇼
+🎓 A-Level Student | Computer Systems & Architecture | Kigali, Rwanda  
+🔧 Building embedded systems and IoT solutions  
+🌍 Focused on tech that solves real problems in African communities  
 
-🔧 Currently working with: [list your languages/tools]
+## 🛠️ Currently Working With
+- Arduino (C++)
+- Embedded Systems & Sensor Integration
+- IoT Design & Environmental Monitoring
 
-📌 Projects:
-- Air quality monitoring system — what it does
-- Automatic Environmental Monitoring System — what it does  
-- Smoke Detection and Alert System — what it does
+## 📌 Projects
+- **Air Quality Monitoring System** — Arduino-based sensor system 
+  that detects and tracks air quality levels in real time
+  
+- **Automatic Environmental Monitoring System** — Monitors ambient 
+  temperature and environmental conditions using automated sensors
 
-📫 Connect: https://www.linkedin.com/in/kolbe-maximillien/recent-activity/all/
+- **Smoke Detection & Alert System** — Real-time smoke detection 
+  system that triggers automated safety alerts
+
+## 📫 Connect
+https://www.linkedin.com/in/shimwa-abdulrazak/
