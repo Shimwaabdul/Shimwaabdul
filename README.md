@@ -1,23 +1,27 @@
 # Hi, I'm Abdul 
 
-A-Level Student | Computer Systems & Architecture | Kigali, Rwanda  
-Building embedded systems and IoT solutions  
-Focused on tech that solves real problems in African communities  
+Software Engineering student at Kigali Independent University | Kigali, Rwanda  
+I build embedded systems and IoT solutions, and I'm expanding into web development and AI-assisted software.  
+Focused on technology that solves real problems in African communities.
 
-##  Currently Working With
-- Arduino (C++)
-- Embedded Systems & Sensor Integration
-- IoT Design & Environmental Monitoring
+##  What I Work With
+- Arduino (C++), embedded systems & sensor integration
+- IoT design & environmental monitoring
+- Web design & landing pages
+- AI-assisted development (I use AI tools to build faster, then review and test everything myself)
 
 ##  Projects
-- **Air Quality Monitoring System** — Arduino-based sensor system 
+- **[Air Quality Monitoring System](https://github.com/Shimwaabdul/Air-Quality-Monitoring-System)** — Arduino-based sensor system
   that detects and tracks air quality levels in real time
-  
-- **Automatic Environmental Monitoring System** — Monitors ambient 
+
+- **[Automatic Environmental Monitoring System](https://github.com/Shimwaabdul/Automatic-Environmental-Monitoring-System)** — Monitors ambient
   temperature and environmental conditions using automated sensors
 
-- **Smoke Detection & Alert System** — Real-time smoke detection 
+- **[Smoke Detection & Alert System](https://github.com/Shimwaabdul/Smoke-Detection-and-Alert-System)** — Real-time smoke detection
   system that triggers automated safety alerts
 
+##  Open to Work
+Freelance projects in web design, landing pages, and embedded/IoT prototypes.
+
 ##  Connect
-https://www.linkedin.com/in/shimwa-abdulrazak/
+[LinkedIn](https://www.linkedin.com/in/shimwa-abdulrazak/)
