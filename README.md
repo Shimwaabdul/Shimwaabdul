@@ -1,7 +1,7 @@
 # Hi, I'm Abdul 
 
-Software Engineering student at Kigali Independent University | Kigali, Rwanda  
-I build embedded systems and IoT solutions, and I'm expanding into web development and AI-assisted software.  
+Software Engineering student at Kigali Independent University | Kigali, Rwanda
+I design and build websites and software, using AI-assisted tools to work faster and then reviewing and testing everything myself.
 Focused on technology that solves real problems in African communities.
 
 ##  What I Work With
